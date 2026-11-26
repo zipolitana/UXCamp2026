@@ -1,8 +1,8 @@
 # UXCamp2026 was a high note
 
-UX Camp brought together professionals from diverse backgrounds to explore future-focused topics and emerging trends in user experience, AI, design thinking, and human-centred design. What a treat or myself to join the caht and challenge conventional ideas, inspire innovation, and shape the future of UX.
+UX Camp brought together professionals from diverse backgrounds to explore future-focused topics and emerging trends in user experience, AI, design thinking, and human-centred design. What a treat to join the chat to challenge conventional ideas, inspire innovation, and shape the future of UX.
 
-My standing only session with people lined the back walls, confirmed that critical thinking before opening the tool is the real skill.
+My standing-only session with people lined the back walls confirmed that critical thinking before opening the tool is the real skill.
 AI didn’t make product easier. It exposed shallow thinking. It exposed:
 • teams optimizing touchpoints without understanding systems
 • designers mistaking fluency for correctness
